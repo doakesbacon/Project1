@@ -26,3 +26,25 @@ Rough breakdown of tasks:
 -Create an analysis write up
 -Create presentation (10 minutes)
 -Present
+
+
+Chart Ideas:
+
+-GDP vs Health Consumption / Other economic data or info (Chris)
+-% GDP health expenditure over years
+-geoapify data (Bryson) (optional)
+
+-Per Capita Health Spending (normalized) vs health outcomes (David)
+  -life expectancy
+  -avoidable death 
+  -infant mortality
+  -maternal mortality
+  -heart disease
+  -Covid
+  
+-Percent Insured vs. health outcomes (Bryson)
+  -listed above
+  
+-Insurance vs %GDP on health (Pascaline)
+
+-Health financing scheme vs health outcomes (Alex)
